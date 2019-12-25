@@ -1,0 +1,1 @@
+Lighthouse Labs Bootcamp Prep-work kata's, done in Ruby.
